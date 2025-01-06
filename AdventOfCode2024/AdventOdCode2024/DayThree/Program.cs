@@ -26,7 +26,7 @@ static int SolvePartTwo(string input)
 {
     var mulPattern = @"mul\((\d+),(\d+)\)";
     var controlPattern = @"do\(\)|don't\(\)";
-    
+
     var tokens = Regex.Split(input, $@"({mulPattern}|{controlPattern})");
 
     var result = 0;

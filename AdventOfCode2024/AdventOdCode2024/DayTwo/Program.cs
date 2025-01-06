@@ -9,7 +9,7 @@ static int GetSafeReportsCount(IEnumerable<string> input, int unsafeLevelsTolera
         var numbers = line.Split(" ", StringSplitOptions.TrimEntries).Select(int.Parse).ToList();
 
         var isIncreasing = numbers[1] > numbers[0];
-    
+
         if (IsReportSafe(numbers, isIncreasing, unsafeLevelsTolerance))
         {
             safeCounter++;
@@ -22,11 +22,11 @@ static int GetSafeReportsCount(IEnumerable<string> input, int unsafeLevelsTolera
 static bool IsReportSafe(List<int> report, bool isIncreasing, int unsafeLevelsTolerance)
 {
     var unsafeLevelsCount = 0;
-    
-    for(var i = 0; i <= report.Count - 2; i ++)
+
+    for (var i = 0; i <= report.Count - 2; i++)
     {
         var difference = report[i + 1] - report[i];
-        
+
         if (Math.Abs(difference) is 0 or > 3)
         {
             unsafeLevelsCount++;
@@ -42,7 +42,7 @@ static bool IsReportSafe(List<int> report, bool isIncreasing, int unsafeLevelsTo
             return false;
         }
     }
-    
+
     return true;
 }
 

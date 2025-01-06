@@ -1,0 +1,16 @@
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\bin\Debug\net6.0\input.txt
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\bin\Debug\net6.0\DayFour.exe
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\bin\Debug\net6.0\DayFour.deps.json
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\bin\Debug\net6.0\DayFour.runtimeconfig.json
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\bin\Debug\net6.0\DayFour.dll
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\bin\Debug\net6.0\DayFour.pdb
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.csproj.AssemblyReference.cache
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.GeneratedMSBuildEditorConfig.editorconfig
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.AssemblyInfoInputs.cache
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.AssemblyInfo.cs
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.csproj.CoreCompileInputs.cache
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.dll
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\refint\DayFour.dll
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.pdb
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\DayFour.genruntimeconfig.cache
+D:\Advent\Advent-of-code\AdventOfCode2024\AdventOdCode2024\DayFour\obj\Debug\net6.0\ref\DayFour.dll
